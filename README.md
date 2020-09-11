@@ -1,6 +1,6 @@
 # boards
 
-A new Flutter application.
+Boards is a mobile application that allows users to easily share and organize their ideas and plans with others. 
 
 ## Getting Started
 
