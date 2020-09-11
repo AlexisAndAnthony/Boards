@@ -1,0 +1,6 @@
+package com.example.boards
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
